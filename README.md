@@ -61,7 +61,7 @@ The platform will require a relational database to manage User And Tasks . Below
 
 <h2 align="left"> Tables: </h2>
 
----
+
 
 <h2 align="left"> a) Category </h2>
 
