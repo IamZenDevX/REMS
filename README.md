@@ -1,6 +1,6 @@
 # REMS
 Real Estate Management System
-<h2 align="left"> Intoduction: </h2>
+<h2 align="left"> Introduction: </h2>
 
 Designed to automate real estate activities including loan processing, transaction handling, property management, and customer connections, this **Real Estate Administration System** is Strong architectural design helps the system to track properties, ownership information, customer data, registrations, loans, and transactions.
 
