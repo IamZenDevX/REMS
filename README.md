@@ -55,7 +55,7 @@ Designed to automate real estate activities including loan processing, transacti
 - nodemon
 - validator
 
-<h2 align="left"> 1. **Database Structure </h2>
+<h2 align="left"> 1. Database Structure </h2>
 
 The platform will require a relational database to manage User And Tasks . Below is a proposed database structure with the key tables.
 
