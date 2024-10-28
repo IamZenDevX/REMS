@@ -134,6 +134,18 @@ The platform will require a relational database to manage User And Tasks . Below
 | annualincome | String |
 | address | String |
 
+<h2 align="left"> Use Cases: </h2>
+
+1. **Customer Management**
+    - **Add/Update Customer Details**: client data including contact information, preferences, and interaction records. Use knowledge about your clients to present tailored property recommendations and govern interactions.
+2. **Property Management**
+    - **Add/Update/Delete Properties**: manage property details including location, type, BHK, value, and status. Track rental properties, their availability, and lease terms or govern ownership.
+3. **Owner & Registration Management**
+    - Track property and former owners.Track safe ownership by means of guaranteed correct property registration and recordkeeping.
+4. **Loan Management**
+    - Track loan status, review loan customer eligibility, and manage loan applications.
+5. **Transaction Processing**
+    - Keeping a transaction record enables you to produce reports for tax as well as financial requirements.
 <h2 align="left"> Development with ZenDevx: </h2>
 
 <a href="https://www.zendevx.com/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/7dd7220f-e83c-4490-9ac2-beab3bcf8c35" alt="ZenDevX" height="auto" width="auto" /></a>
