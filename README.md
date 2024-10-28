@@ -18,15 +18,13 @@ Designed to automate real estate activities including loan processing, transacti
     
 3. **Owner & Registration Management :**  
 
-       Manage property registrations and control owners to ensure proven, safe ownership.
-
-       Track history of ownership and keep register documentation.
+   Manage property registrations and control owners to ensure proven, safe ownership.Track history of ownership and keep register documentation.
 
 1. **Loan Management :**
 
-       Include loan services into the property system addressing loan eligibility, approval, and loan tracking.
+   Include loan services into the property system addressing loan eligibility, approval, and loan tracking.
 
-       Provide real-time loan status information and automated loan related processes.
+   Provide real-time loan status information and automated loan related processes.
 
 1. **Transaction Processing :**
     
