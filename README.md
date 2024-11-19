@@ -1,5 +1,5 @@
-# REMS
-Real Estate Management System
+# Real Estate Management System
+
 <h2 align="left"> Introduction: </h2>
 
 Designed to automate real estate activities including loan processing, transaction handling, property management, and customer connections, this **Real Estate Administration System** is Strong architectural design helps the system to track properties, ownership information, customer data, registrations, loans, and transactions.
@@ -151,6 +151,6 @@ Designed to automate real estate activities including loan processing, transacti
 # **🐦 Connect With Me:**
 <a href="https://www.linkedin.com/company/zendevx/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/9a6080ca-4265-43e5-8652-9454651970a9" alt="ZenDevX" height="50" width="50" /></a>
 <a href="https://www.youtube.com/@zendevx" target="blank"><img align="center" src="https://github.com/user-attachments/assets/1beefdd6-fa17-49c9-bde7-e8f30f539b96" alt="ZenDevX" height="50" width="50" /></a>
-<a href="#" target="blank"><img align="center" src="https://github.com/user-attachments/assets/f1eeb865-3d23-407a-9a2b-d76b4e85c6dd" alt="ZenDevX" height="50" width="50" /></a>
+<a href="https://x.com/IamZenDevX" target="blank"><img align="center" src="https://github.com/user-attachments/assets/f1eeb865-3d23-407a-9a2b-d76b4e85c6dd" alt="ZenDevX" height="50" width="50" /></a>
 
 I hope you like the project. Thanks for reading :)
